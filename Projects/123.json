@@ -1,0 +1,26 @@
+{
+  "Character": {
+
+    "Character": {
+      "id": 10000,
+      "editor": "ExampleEditor",
+      "game": "ExmapleGame"
+    },
+
+    "Clothes": {
+      "hat": 123,
+      "mask": 123,
+      "glasses": 123,
+      "vest": 123,
+      "pants": 123,
+      "shirt": 123
+    },
+
+    "Behavior": {
+      "primary": 123,
+      "secondary": 123,
+      "equipped": "primary",
+      "pose": "rest"
+    }
+  }
+}
