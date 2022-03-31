@@ -19,8 +19,8 @@
     "Behavior": {
       "primary": 123,
       "secondary": 123,
-      "equipped": "primary",
-      "pose": "rest"
+      "equipped": "Primary",
+      "pose": "Rest"
     }
   }
 }
